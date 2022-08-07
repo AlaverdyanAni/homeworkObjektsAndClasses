@@ -12,6 +12,7 @@ public class Main {
         Book threeComrades = new Book( "Три товарища",1936, mariaRemark);
 
         threeComrades.setPublicationYear(1942);
+
         System.out.println(mariaRemark);
         System.out.println(threeComrades);
 
