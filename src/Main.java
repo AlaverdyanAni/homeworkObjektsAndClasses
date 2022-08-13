@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println(mariaRemark);
         System.out.println(threeComrades);
-
-
+        System.out.println(levTolstoy.equals(mariaRemark));
+        System.out.println(annaKarenina.equals(threeComrades));
     }
 }
